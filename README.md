@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Yooki-K/Yooki-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Yooki.K. 👋
+
+- 🔭 I’m a student in NJUST.
+- 🌱 I’m Studying federated learning.
+- 🤔 I’m currently coding in Python and Javascript.
+- ❤️ I like playing badminton and table tennis.
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yooki-K&show_icons=true&hide_border=true">
