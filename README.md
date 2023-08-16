@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Yooki.K. 👋
 
-- 🔭 I’m a student in NJUST.
+- 🔭 I’m a student in XJTU.
 - 🌱 I’m Studying federated learning.
 - 🤔 I’m currently coding in Python and Javascript.
 - ❤️ I like playing badminton and table tennis.
